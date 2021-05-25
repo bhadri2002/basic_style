@@ -18,7 +18,7 @@
   <li>mx1 - mx5(margin only affect on left and right)</li>
   <li>my1 - my5(margin only affect on top and bottom)</li>
 </ul>
-<ul><h2>color:</h2>
+<ul><h2 class="red">color:</h2>
   <li>white</li>
   <li>black</li>
   <li>green</li>
