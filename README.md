@@ -47,6 +47,16 @@
 <ul>
   <h2>button</h2>
   <li>btn (it create a basic button if we want to add any more any thing it affects)<li>
+</ul>
+<ul>
   <h2>button_outline_style</h2>
   <li>btn-out-dark(it shows outline for the button and we can change the color while edit the color section [eg:btn-out-blue,btn-out-green])</li>
+</ul>
+<ul>
+  <h2>animation</h2>
+  <li>grow(it scaling the element.we can change the color of the grow using bg colors)</li>
+</ul>
+<ul>
+  <h2>table</h2>
+  <li>table(create's a basic table)</li>
 </ul>
